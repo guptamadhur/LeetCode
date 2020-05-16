@@ -21,7 +21,7 @@ Example 2:
 
 */
 
-import web.app.madhurgupta.challenge.May.Week1.common.Tree.TreeNode;
+import web.app.madhurgupta.challenge.May.common.Tree.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;
