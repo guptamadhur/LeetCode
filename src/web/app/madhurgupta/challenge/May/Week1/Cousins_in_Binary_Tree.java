@@ -1,4 +1,4 @@
-package web.app.madhurgupta.challenge.may.Week1;
+package web.app.madhurgupta.challenge.May.Week1;
 /*
 # Author: Madhur Gupta
 # Github: github.com/guptamadhur
@@ -21,7 +21,7 @@ Example 2:
 
 */
 
-import web.app.madhurgupta.challenge.may.Week1.common.Tree.TreeNode;
+import web.app.madhurgupta.challenge.May.Week1.common.Tree.TreeNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

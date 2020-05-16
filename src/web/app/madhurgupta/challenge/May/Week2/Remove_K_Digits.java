@@ -1,4 +1,4 @@
-package web.app.madhurgupta.challenge.may.Week2;
+package web.app.madhurgupta.challenge.May.Week2;
 /*
 # Author: Madhur Gupta
 # Github: github.com/guptamadhur

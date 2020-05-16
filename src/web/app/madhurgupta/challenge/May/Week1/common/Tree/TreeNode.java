@@ -1,4 +1,4 @@
-package web.app.madhurgupta.challenge.may.Week1.common.Tree;
+package web.app.madhurgupta.challenge.May.Week1.common.Tree;
 /*
 # Author: Madhur Gupta
 # Github: github.com/guptamadhur
