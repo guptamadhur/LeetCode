@@ -1,3 +1,3 @@
 # LeetCode
-##May LeetCoding Challenge
+# May LeetCoding Challenge
 
