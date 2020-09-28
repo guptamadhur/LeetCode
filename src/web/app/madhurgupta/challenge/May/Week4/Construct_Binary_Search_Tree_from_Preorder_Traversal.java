@@ -6,7 +6,7 @@ package web.app.madhurgupta.challenge.May.Week4;
 # Created on: 24-05-2020 17:01
 */
 
-import web.app.madhurgupta.challenge.May.common.Tree.BinaryNode;
+import web.app.madhurgupta.challenge.common.Tree.BinaryNode;
 
 import java.util.LinkedList;
 import java.util.Queue;

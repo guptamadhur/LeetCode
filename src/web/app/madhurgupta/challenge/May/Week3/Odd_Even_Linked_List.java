@@ -6,7 +6,7 @@ package web.app.madhurgupta.challenge.May.Week3;
 # Created on: 17-05-2020 02:54
 */
 
-import web.app.madhurgupta.challenge.May.common.LinkedList.ListNode;
+import web.app.madhurgupta.challenge.common.LinkedList.ListNode;
 
 public class Odd_Even_Linked_List {
     private static ListNode root;

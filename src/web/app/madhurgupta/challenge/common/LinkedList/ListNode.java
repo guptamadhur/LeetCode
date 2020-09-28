@@ -1,4 +1,4 @@
-package web.app.madhurgupta.challenge.May.common.LinkedList;
+package web.app.madhurgupta.challenge.common.LinkedList;
 /*
 # Author: Madhur Gupta
 # Github: github.com/guptamadhur
