@@ -26,8 +26,8 @@ public class Kdiff_Pairs_in_an_Array {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
         int k = 1;
-        System.out.println(new Kdiff_Pairs_in_an_Array().findPairs(arr, k));
-        System.out.println(new Kdiff_Pairs_in_an_Array().findPairs(new int[]{3, 1, 4, 1, 5}, 2));
+        System.out.println(findPairs(arr, k));
+        System.out.println(findPairs(new int[]{3, 1, 4, 1, 5}, 2));
     }
 
     public static int findPairs(int[] nums, int k) {
